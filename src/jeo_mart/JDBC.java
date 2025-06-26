@@ -12,8 +12,8 @@ import javax.swing.*;
  */
 public class JDBC {                   
     private static final String URL = "jdbc:sqlserver://localhost:1433;databaseName=jeomart_billing_sys;trustServerCertificate=true";
-      private static final String USER = "SASIDHARAN-S";
-        private static final String PASSWORD = "sasi";
+      private static final String USER = "your_username";
+        private static final String PASSWORD = "password";
         
         public static Connection con() throws Exception{
             return DriverManager.getConnection(URL, USER, PASSWORD);
