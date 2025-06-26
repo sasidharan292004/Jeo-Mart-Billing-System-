@@ -1,0 +1,43 @@
+
+
+Version:	3.50
+CmdLine:	E:\projects\Jeo_mart\mart.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\projects\Jeo_mart\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Java\bin;E:\VS CODE\Microsoft VS Code\bin;C:\Users\ASUS\.dotnet\tools;C:\Program Files\Java\bin
+JRE paths:	;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Java\bin;E:\VS CODE\Microsoft VS Code\bin;C:\Users\ASUS\.dotnet\tools;C:\Program Files\Java\bin
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\160\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\160\DTS\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\bin\javaw.exe (OK)
+Version string: 1.023.000_002 / 64-Bit (OK)
+Main class:	jeo_mart.log_in_page
+Add classpath:	E:\JAR FILES\activation-1.1.1.jar
+Add classpath:	E:\JAR FILES\core-3.5.3.jar
+Add classpath:	E:\JAR FILES\itextpdf-5.5.13.2.jar
+Add classpath:	E:\JAR FILES\javase-3.3.0.jar
+Add classpath:	E:\JAR FILES\javax.mail-1.6.2.jar
+Add classpath:	E:\JAR FILES\jfreechart-1.5.3.jar
+Add classpath:	E:\JAR FILES\mail-1.4.7.jar
+Add classpath:	E:\JAR FILES\mssql-jdbc-11.2.2.jre18.jar
+Add classpath:	E:\NET BEANS\NetBeans-24\netbeans\java\modules\ext\AbsoluteLayout.jar
+Launcher:	C:\Program Files\Java\bin\javaw.exe
+Launcher args:	-classpath "E:\projects\Jeo_mart\mart.exe;E:\JAR FILES\activation-1.1.1.jar;E:\JAR FILES\core-3.5.3.jar;E:\JAR FILES\itextpdf-5.5.13.2.jar;E:\JAR FILES\javase-3.3.0.jar;E:\JAR FILES\javax.mail-1.6.2.jar;E:\JAR FILES\jfreechart-1.5.3.jar;E:\JAR FILES\mail-1.4.7.jar;E:\JAR FILES\mssql-jdbc-11.2.2.jre18.jar;E:\NET BEANS\NetBeans-24\netbeans\java\modules\ext\AbsoluteLayout.jar" jeo_mart.log_in_page
+Args length:	397/32768 chars
+Exit code:	0

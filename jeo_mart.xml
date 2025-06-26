@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>E:\projects\Jeo_mart\dist\Jeo_mart.jar</jar>
+  <outfile>E:\projects\Jeo_mart\mart.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <classPath>
+    <mainClass>jeo_mart.log_in_page</mainClass>
+    <cp>E:\JAR FILES\activation-1.1.1.jar</cp>
+    <cp>E:\JAR FILES\core-3.5.3.jar</cp>
+    <cp>E:\JAR FILES\itextpdf-5.5.13.2.jar</cp>
+    <cp>E:\JAR FILES\javase-3.3.0.jar</cp>
+    <cp>E:\JAR FILES\javax.mail-1.6.2.jar</cp>
+    <cp>E:\JAR FILES\jfreechart-1.5.3.jar</cp>
+    <cp>E:\JAR FILES\mail-1.4.7.jar</cp>
+    <cp>E:\JAR FILES\mssql-jdbc-11.2.2.jre18.jar</cp>
+    <cp>E:\NET BEANS\NetBeans-24\netbeans\java\modules\ext\AbsoluteLayout.jar</cp>
+  </classPath>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
